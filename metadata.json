@@ -1,0 +1,5 @@
+{
+  "name": "帳票データ化アプリ",
+  "description": "PDF形式の請求書や注文書をアップロードすると、AIが主要項目を自動で抽出し、構造化データとして表示・CSV出力します。",
+  "requestFramePermissions": []
+}
